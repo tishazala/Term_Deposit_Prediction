@@ -1,5 +1,6 @@
  Term_Deposit_Prediction
-  Project Description
+ 
+ Project Description
 
 The Term_Deposit_Prediction project focuses on analyzing and visualizing data from a bank marketing campaign to understand customer behavior and predict whether a client will subscribe to a term deposit.
 
