@@ -1,4 +1,4 @@
- Term_Deposit_Prediction
+Term_Deposit_Prediction
  
  Project Description
 
